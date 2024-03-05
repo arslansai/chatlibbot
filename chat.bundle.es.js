@@ -19808,7 +19808,8 @@ const Be = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.defineProperty({
           } catch {
           }
         return "";
-      }
+      },
+      html: !0
     };
     return (i, M) => (S(), R("div", o65, [
       d1(_e, {
